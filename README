@@ -1,6 +1,6 @@
 PyBluez
 
-Python extension module allowing access to system Bluetooth resources.
+Python extension module allowing access to system Bluetooth resources
 
 https://github.com/karulis/pybluez
 
